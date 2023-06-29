@@ -2,7 +2,7 @@
 
 This repository contains the project files and resources for the Coursera project "Hyperparameter Tuning with Keras Tuner." The project focuses on exploring and implementing hyperparameter tuning techniques using the Keras Tuner library.
 link: https://www.coursera.org/learn/keras-tuner/home/week/1
-
+[Certificate.pdf](https://github.com/pgeedh/Hyperparameter-Tuning-with-Keras-Tuner/files/11908219/Certificate.pdf)
 ## Project Overview
 The project aims to provide hands-on experience with hyperparameter tuning, an essential aspect of optimizing machine learning models. By leveraging Keras Tuner, participants will learn how to efficiently search and select the best hyperparameters for their neural network models. The project covers various hyperparameter tuning techniques, such as random search, grid search, and Bayesian optimization.
 
@@ -11,7 +11,7 @@ The project aims to provide hands-on experience with hyperparameter tuning, an e
 ## Project Structure
 The repository is organized as follows:
 
-[Certificate.pdf](https://github.com/pgeedh/Hyperparameter-Tuning-with-Keras-Tuner/files/11908219/Certificate.pdf)
+
 
 
 - `README.md`: The file you are currently reading, providing an overview of the repository.
